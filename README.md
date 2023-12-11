@@ -1,3 +1,3 @@
 # DEAW
 # Archivo readme del repositorio DEAW.
-# Modificación para primer commit.
+# Modificacion para primer commit.
